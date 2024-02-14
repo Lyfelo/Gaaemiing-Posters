@@ -1,2 +1,3 @@
-# Gaaemiing-Posters
-Lethal Company Posters for my friends
+Mod for me and my friends.
+
+Requies BenInEx and Lethal Posters.
