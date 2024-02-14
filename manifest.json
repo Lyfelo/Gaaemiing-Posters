@@ -1,8 +1,0 @@
-{
-  "name": "GaaemiingPosters",
-  "version_number": "1.0.0",
-  "description": "COMPATIBLE WITH v45. Posters for me and my friends",
-  "dependencies": [
-    "BepInEx-BepInExPack-5.4.2100"
-  ]
-}
